@@ -1,4 +1,4 @@
-#About the repository
+# About the repository
 You can find files for mini project "Shark Attack":
 1. SharkAttack.ipynb - analysis results produced by Kseniia Iykhlina
 2. cleaning.py and eda.py - additional files with functions
